@@ -1,9 +1,6 @@
 <h1 align="center">Hello! I'm Özlem Hakdağlı 👋</h1>
 <h3 align="center">An experienced engineer and researcher passionate about advancing artificial intelligence technologies. With expertise in building scalable solutions and a focus on natural language processing, computer vision, and deep learning, I thrive at the intersection of research and development, driving innovation in modern software and AI systems.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ozlemhakdagli&label=Profile%20Views&color=0e75b6&style=flat" alt="ozlemhakdagli" />
-</p>
 
 ---
 
