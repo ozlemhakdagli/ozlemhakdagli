@@ -1,75 +1,60 @@
-<h1 align="center">Hello! I'm Özlem Hakdağlı 👋</h1>
-<h3 align="center">An experienced engineer and researcher passionate about advancing artificial intelligence technologies. With expertise in building scalable solutions and a focus on natural language processing, computer vision, and deep learning, I thrive at the intersection of research and development, driving innovation in modern software and AI systems.</h3>
-
+<h1 align="center">Hi, I'm Özlem Hakdağlı! 👋</h1>
 
 ---
 
-### 🛠️ Technologies I Use
-
-#### Programming Languages
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-#### Frameworks and Libraries
-- ![.NET MAUI](https://img.shields.io/badge/-MAUI-512BD4?style=flat-square&logo=.net&logoColor=white)
-- ![.NET Core](https://img.shields.io/badge/-NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-- ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-fcd34d?style=flat-square&logo=huggingface&logoColor=black)
-
-
-#### Frontend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40"/>
-</p>
-
-#### Backend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-</p>
-
-#### AI / ML
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"/>
-</p>
-
-#### Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40"/>
-</p>
-
-#### DevOps and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</p>
+## 🚀 About Me
+An **AI Engineer** passionate about **machine learning, computer vision, NLP, Large Language Models (LLMs), and Generative AI (GenAI)**, with extensive experience in **R&D, software development, and cloud technologies**, focused on delivering innovative and scalable AI-driven solutions.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technologies & Tools
+
+### **Languages & Frameworks**  
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**AI & ML:**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-fcd34d?style=flat-square&logo=huggingface&logoColor=black)  
+
+**Backend & Frontend:**  
+![.NET Core](https://img.shields.io/badge/-NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)  
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) 
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
+
+**DevOps & Cloud:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozlemhakdagli&show_icons=true&theme=radical" alt="ozlemhakdagli" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozlemhakdagli&theme=radical" alt="ozlemhakdagli" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ozlemhakdagli&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="45%" /> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemhakdagli&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
 
-### 🌟 Contact
+## 📬 Get in Touch
+- **LinkedIn**: [Özlem Hakdağlı](https://linkedin.com/in/ozlemhakdagli)
+- **Medium**: [@ozlem.hakdagli](https://medium.com/@ozlem.hakdagli)
+  
 
-- **LinkedIn:** [Özlem Hakdağlı](https://linkedin.com/in/ozlemhakdagli)
-- **Email:** [ozlem.hakdagli@hotmail.com](mailto:ozlem.hakdagli@hotmail.com)
-- **Medium:** [@ozlemhakdagli](https://medium.com/@ozlemhakdagli)
+---
+
+🔹 *Open to collaborations on AI research, software development, and innovative tech solutions!*
